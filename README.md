@@ -1,2 +1,2 @@
 # master-bill-list
-Financial tracker
+Homebrewed financial software to track cashflow, bill due dates, snowball debt payoff, etc.
